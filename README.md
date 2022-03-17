@@ -1,16 +1,22 @@
-### Hi there 👋
+<h3> :woman: &nbsp;Sobre mim - Carina Abreu </h3>
 
-<!--
-**carina-abreu/carina-abreu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+- 🤔 &nbsp; Aprendendo a desenvolver soluções de software e buscando novos desafios.
+- 🎓 &nbsp; Estudando **Starter Full Stack Web Developer** no <a href="https://www.growdev.com.br/starter-2">GROWDEV</a>.
+- 💼 &nbsp; Estou em fase de migração e as áreas em que já tive experiência são Turismo e Hospitalidade, Educação e Empreendedorismo.
+- 🌱 &nbsp; Aprendendo mais sobre **Front End**.
 
-Here are some ideas to get you started:
+<h3> :rocket: &nbsp;Minhas Skills </h3>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+**Aplicações e Dados**
+  
+  ![HTML5](https://img.shields.io/badge/-HTML5-333333?style=flat&logo=HTML5)
+  
+**DevOps**
+
+  ![Git](https://img.shields.io/badge/-Git-333333?style=flat&logo=git)
+  ![GitHub](https://img.shields.io/badge/-GitHub-333333?style=flat&logo=github)
+  
+**Ferramentas de Desenvolvimento**
+
+  ![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-333333?style=flat&logo=visual-studio-code&logoColor=007ACC)
+  
